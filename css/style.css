@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: grey;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#caja{
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+    padding: 20px;
+    border: 1px solid white;
+    margin: 0 auto;
+}
+.cajita{
+    border: 1px solid white;
+    margin: 1px;
+    border-radius: 5px;
+    padding-left: 10PX;
+    height: 25PX;
+    font-size: 17px;
+}
+nav{
+    width: 200px;
+    height: 30px; 
+    margin: 0 auto;
+    text-align: center;
+}
+.boton{
+    border-radius: 5px;
+    border: 1px solid white;
+    background: none;
+    width: 200px;
+    padding: 5px;
+    font-size: 15px;
+    margin-left: 5px;
+    color: white;
+}
